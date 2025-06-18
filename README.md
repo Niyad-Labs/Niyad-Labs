@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Muhammed Niyad :
 I'm a MERN Stack Developer and final-year BCA student at Calicut University, driven by a love for clean code, powerful architecture, and real-world problem-solving. I specialize in crafting dynamic, scalable, and high-performance web applications using MongoDB, Express.js, React.js, and Node.js. With solid experience in RESTful APIs, MVC design patterns, and database management (both SQL & NoSQL), I focus on building smooth, user-centric interfaces backed by robust server-side logic. I'm constantly learning, refining my skills, and taking on projects like BookNesto to turn ideas into impactful products. My mission: grow into a top-tier Software Engineer by creating tech that matters.
 
 
