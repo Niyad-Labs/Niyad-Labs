@@ -6,7 +6,14 @@
 <!--[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MuhammedNiyad) -->
 
 ## 💫 About Me:
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I’m a MERN Stack Developer and a BCA graduate from the University of Calicut, driven by a passion for clean code, scalable architecture, and real-world problem-solving. I specialize in building dynamic, high-performance web applications using MongoDB, Express.js, React.js, and Node.js.I have hands-on experience in developing RESTful APIs, implementing MVC architecture, and working with both SQL and NoSQL databases. Recently, I’ve expanded my skill set into mobile development with Flutter, desktop application development using Electron.js, and integrating AI-powered features using Python (FastAPI, PyTorch). I also have experience building real-time systems using WebSockets and secure backend solutions with authentication and token-based access.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some of my key projects include Share With Node, a local network file sharing and streaming platform, and PixelPact, an AI-powered digital art collaboration and ownership systemI continuously focus on improving my development skills, system design understanding, and building practical, impactful applications. My goal is to grow into a highly skilled Software Engineer by creating efficient, scalable, and meaningful technology solutions.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I’m a Full-Stack Developer specializing in the MERN stack with 1+ year of hands-on development and freelance 
+experience building and deploying modern web applications for clients. Experienced in SaaS, AI-powered 
+applications, ERP systems, responsive websites, desktop, and real-time applications using React.js, Node.js, 
+Express.js, MongoDB, PostgreSQL, FastAPI, and modern frontend technologies. Skilled in Docker, Flutter, 
+Electron.js, WebSockets, Tailwind CSS, and Three.js, with strong interests in backend development, 
+databases, cloud technologies, performance optimization, and system architecture. Proven ability to 
+design, develop, and deploy end-to-end solutions while collaborating with clients and independently 
+developing commercial software products.</p>
 
 
 
